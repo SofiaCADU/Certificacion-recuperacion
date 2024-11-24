@@ -52,4 +52,17 @@
     width: 25px;
     padding-right: 10px;
 }
+
+.c{
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.T{
+    border-bottom: yellow 1px solid;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
 /* Barra navegacion */
