@@ -31,6 +31,11 @@
     width: 1200px;
 }
 
+.img{
+    width: 20px;
+    height: 20px;
+}
+
 .navar{
     display: flex;
     justify-content: space-between;
@@ -61,7 +66,7 @@
 }
 
 .T{
-    border-bottom: yellow 1px solid;
+    border-bottom: #debb81 1px solid;
     justify-content: center;
     align-items: center;
     padding: 10px;
@@ -73,7 +78,7 @@
 }
 
 .bloque{
-    background-color: gray;
+    background-color: #dedede;
     padding: 15px;
     border-radius: 20px;
     margin: 10px;
@@ -96,10 +101,20 @@
 }
 
 .bor{
-    border-bottom: solid 1px yellow;
+    border-bottom: solid 1px #debb81;
     margin-bottom: 10px;
 }
 
+.bor-2{
+    border-bottom: solid 1px #debb81;
+    margin: 10px;
+}
+
 .cen{
+    align-items: center;
+}
+
+button{
+    background-color: #ffe699;
 }
 /* Main */
