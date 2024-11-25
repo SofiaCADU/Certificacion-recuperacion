@@ -28,6 +28,7 @@
 .navega{
     background-color: black;
     color: white;
+    width: 1200px;
 }
 
 .l{
@@ -67,6 +68,10 @@
 }
 /* Barra navegacion */
 /* main */
+.m{
+    width: 1200px;
+}
+
 .bloque{
     background-color: gray;
     padding: 15px;
