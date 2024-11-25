@@ -31,18 +31,16 @@
     width: 1200px;
 }
 
+.navar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
 .l{
     list-style-type: none;
     padding: 10px;
-}
-
-.L{
-    padding: 0 auto;
-    margin: 0 auto;
-}
-
-.R{
-    text-align: right;
 }
 
 .w{
@@ -83,5 +81,25 @@
 
 .bandas{
     width: 210px;
+}
+
+.center{
+    text-align: center;
+}
+
+.tex{
+    padding-right: 60%;
+}
+
+.text{
+    padding-right: 80%;
+}
+
+.bor{
+    border-bottom: solid 1px yellow;
+    margin-bottom: 10px;
+}
+
+.cen{
 }
 /* Main */
