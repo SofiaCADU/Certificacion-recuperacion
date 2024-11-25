@@ -71,6 +71,12 @@
     align-items: center;
     padding: 10px;
 }
+
+.T:hover {
+    color: yellow;
+    cursor: pointer;
+  }
+
 /* Barra navegacion */
 /* main */
 .m{
