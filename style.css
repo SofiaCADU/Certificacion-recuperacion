@@ -130,4 +130,14 @@
 button{
     background-color: #ffe699;
 }
+
+#sff:hover{
+    background-color: black;
+    color: white;
+}
+
+#lpr:hover{
+    background-color: black;
+    color: white;
+}
 /* Main */
