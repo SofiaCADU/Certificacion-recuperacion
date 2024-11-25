@@ -13,7 +13,7 @@ botonsff.onclick = function(){
     valorContador.innerHTML = contador;
 }
 
-let contador2 = 157;
+let contador2 = 108;
 
 const botonlpr = document.getElementById('lpr');
 const valorC = document.getElementById('v-c');
